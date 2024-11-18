@@ -16,6 +16,7 @@ Additional documentation can be found at the [Marlin Home Page](//marlinfw.org/)
 Please test this firmware and let us know if it misbehaves in any way. Volunteers are standing by!
 
 ## Marlin 2.1 Bugfix Branch
+## By Mudassir Alam
 
 __Not for production use. Use with caution!__
 
