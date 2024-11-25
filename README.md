@@ -16,6 +16,7 @@ Additional documentation can be found at the [Marlin Home Page](//marlinfw.org/)
 Please test this firmware and let us know if it misbehaves in any way. Volunteers are standing by!
 
 ## Marlin 2.1 Bugfix Branch
+## By Merlin codes review 
 
 __Not for production use. Use with caution!__
 
@@ -50,6 +51,7 @@ Marlin includes an abstraction layer to provide a common API for all the platfor
 Every new HAL opens up a world of hardware. At this time we need HALs for RP2040 and the Duet3D family of boards. A HAL that wraps an RTOS is an interesting concept that could be explored. Did you know that Marlin includes a Simulator that can run on Windows, macOS, and Linux? Join the Discord to help move these sub-projects forward!
 
 ### Supported Platforms
+## By Mudassir Alam
 
   Platform|MCU|Example Boards
   --------|---|-------
